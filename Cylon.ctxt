@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cylon()
+comment0.text=\n\ Initializes\ this\ character's\ state\n\ Invokes\ constructor\ of\ superclass\ with\ initial\ parameter\ values\n
+comment1.params=info
+comment1.target=int\ getOtherNeighborCount(MashUpPlayerInfo)
+comment1.text=\n\ This\ method\ tracks\ and\ provides\ information\ about\ the\ character's\ current\ neighbors\n\ \n\ @param\ MashUpPlayerInfo\ simulation\ information\ about\ this\ character\n\ @return\ existingNeighborCount\ counts\ existing\ neighbors\n
+numComments=2
